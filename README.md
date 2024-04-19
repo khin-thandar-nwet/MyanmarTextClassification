@@ -11,4 +11,6 @@ https://ieeexplore.ieee.org/document/9022809
 Comparative Analysis of Deep Learning Models for Myanmar Text Classification
 https://www.springerprofessional.de/en/comparative-analysis-of-deep-learning-models-for-myanmar-text-cl/17766482
 
+# useful link
+https://ieeexplore.ieee.org/document/8692976
 ## Dataset
