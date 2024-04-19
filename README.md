@@ -1,6 +1,6 @@
 # MyanmarTextClassification
 
-### This research work with my candidate Myat Sabal Phyu.
+### This research work with my candidate, Myat Sabal Phyu.
 
 
 
